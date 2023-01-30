@@ -1,0 +1,74 @@
+info: 151dasd {"timestamp":"2023-01-30T05:50:08.509Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:50:08.525Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.531Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:50:08.532Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.535Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.537Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.540Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.543Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.547Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.548Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.550Z"}
+info: Mapped {/api/v1/user/upDateUser/:id, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.554Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:50:08.557Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-30T05:50:08.564Z"}
+info: 151dasd {"timestamp":"2023-01-30T05:51:18.617Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:51:18.630Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.634Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:51:18.635Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.637Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.639Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.641Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.643Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.644Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.646Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.647Z"}
+info: Mapped {/api/v1/user/upDateUser/:id, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.649Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:51:18.651Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-30T05:51:18.657Z"}
+info: 151dasd {"timestamp":"2023-01-30T05:54:55.700Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:54:55.713Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.717Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:54:55.719Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.721Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.723Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.724Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.725Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.727Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.728Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.730Z"}
+info: Mapped {/api/v1/user/upDateUser/:id, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.732Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:54:55.733Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-30T05:54:55.740Z"}
+info: 151dasd {"timestamp":"2023-01-30T05:55:18.802Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:55:18.815Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.819Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:55:18.821Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.823Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.824Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.826Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.828Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.829Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.831Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.834Z"}
+info: Mapped {/api/v1/user/upDateUser/:id, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.843Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:55:18.863Z"}
+info: AuthController {/api/v1/auth}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:55:18.865Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-30T05:55:18.871Z"}
+info: 151dasd {"timestamp":"2023-01-30T05:58:13.074Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:58:13.087Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.093Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:58:13.094Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.097Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.099Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.101Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.103Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.105Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.107Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.110Z"}
+info: Mapped {/api/v1/user/upDateUser/:id, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.112Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.114Z"}
+info: AuthController {/api/v1/auth}: {"context":"RoutesResolver","timestamp":"2023-01-30T05:58:13.116Z"}
+info: Mapped {/api/v1/auth/sigini, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.117Z"}
+info: Mapped {/api/v1/auth/signup, POST} route {"context":"RouterExplorer","timestamp":"2023-01-30T05:58:13.119Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-30T05:58:13.124Z"}

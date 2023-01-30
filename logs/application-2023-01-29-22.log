@@ -1,0 +1,14 @@
+info: 151dasd {"timestamp":"2023-01-29T14:06:45.159Z"}
+info: AppController {/api/v1}: {"context":"RoutesResolver","timestamp":"2023-01-29T14:06:45.176Z"}
+info: Mapped {/api/v1, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.180Z"}
+info: UserController {/api/v1/user}: {"context":"RoutesResolver","timestamp":"2023-01-29T14:06:45.182Z"}
+info: Mapped {/api/v1/user/getUser/:id, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.184Z"}
+info: Mapped {/api/v1/user/getUsers, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.187Z"}
+info: Mapped {/api/v1/user/adduser, POST} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.192Z"}
+info: Mapped {/api/v1/user/remove, POST} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.195Z"}
+info: Mapped {/api/v1/user/profile, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.198Z"}
+info: Mapped {/api/v1/user/logs, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.201Z"}
+info: Mapped {/api/v1/user/deleteUser/:id, DELETE} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.207Z"}
+info: Mapped {/api/v1/user/upDateUser/:id/:name, PATCH} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.211Z"}
+info: Mapped {/api/v1/user/logByGroup, GET} route {"context":"RouterExplorer","timestamp":"2023-01-29T14:06:45.213Z"}
+info: Nest application successfully started {"context":"NestApplication","timestamp":"2023-01-29T14:06:45.221Z"}

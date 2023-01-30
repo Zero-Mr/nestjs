@@ -1,0 +1,20 @@
+{"context":"NestFactory","level":"info","message":"Starting Nest application..."}
+{"context":"InstanceLoader","level":"info","message":"TypeOrmModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"ConfigHostModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"ConfigModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"AppModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"TypeOrmCoreModule dependencies initialized"}
+{"context":"InstanceLoader","level":"info","message":"TypeOrmModule dependencies initialized"}
+{"level":"info","message":"UserController init"}
+{"context":"InstanceLoader","level":"info","message":"UserModule dependencies initialized"}
+{"context":"RoutesResolver","level":"info","message":"AppController {/api/v1}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1, GET} route"}
+{"context":"RoutesResolver","level":"info","message":"UserController {/api/v1/user}:"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/getUsers, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/adduser, POST} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/remove, POST} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/profile, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/logs, GET} route"}
+{"context":"RouterExplorer","level":"info","message":"Mapped {/api/v1/user/logByGroup, GET} route"}
+{"context":"NestApplication","level":"info","message":"Nest application successfully started"}
